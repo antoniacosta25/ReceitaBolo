@@ -4,7 +4,8 @@ body {
     margin: 30px;
 }
 
-h1 {
+h1 { 
+    
     color: #d35400;
     text-align: center;
 }
@@ -18,7 +19,7 @@ section {
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 10px;
-    box-shadow: 2px 2px 8px #cccccc;
+    box-shadow: 0px 0px 10px #cccccc;
 }
 
 /* Tabela */
